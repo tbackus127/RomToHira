@@ -18,7 +18,7 @@ public class RomToHira
 	else
 	{
 	    System.out.println("Please enter a phrase " + 
-				    "in romaaji after the call.");
+				    "in roumaji after the call.");
 	    System.out.println("Ex: \"java RomToHira suteki da ne\"");
 	}
     }
